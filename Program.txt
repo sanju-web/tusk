@@ -7,8 +7,14 @@ Django Framework
 
 flask framework
 
+angular 
+html
+
+
+rest framework api
 
 rest api 
+
 
 
 
