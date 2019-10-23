@@ -12,3 +12,5 @@ class Product(models.Model):
 
     class Meta:
         db_table='Product_Info'
+
+print('the project will be cloned')
